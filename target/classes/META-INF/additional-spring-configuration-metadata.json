@@ -1,0 +1,38 @@
+{"properties": [
+   {
+      "href":"/actuator/gateway/",
+      "methods":[ "GET" ]
+   },
+   {
+      "href":"/actuator/gateway/routedefinitions",
+      "methods":[ "GET" ]
+   },
+   {
+      "href":"/actuator/gateway/globalfilters",
+      "methods":[ "GET" ]
+   },
+   {
+      "href":"/actuator/gateway/routefilters",
+      "methods":[ "GET" ]
+   },
+   {
+      "href":"/actuator/gateway/routes",
+      "methods":[ "POST", "GET" ]
+   },
+   {
+      "href":"/actuator/gateway/routepredicates",
+      "methods":[ "GET" ]
+   },
+   {
+      "href":"/actuator/gateway/refresh",
+      "methods":[ "POST" ]
+   },
+   {
+      "href":"/actuator/gateway/routes/route-id-1/combinedfilters",
+      "methods":[ "GET" ]
+   },
+   {
+      "href":"/actuator/gateway/routes/route-id-1",
+      "methods":[ "POST", "DELETE", "GET" ]
+   }
+]}
