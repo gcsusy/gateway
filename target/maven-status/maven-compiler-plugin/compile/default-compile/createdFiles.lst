@@ -1,2 +1,3 @@
 gc\unir\actividad2\gateway\GatewayApplication.class
 gc\unir\actividad2\gateway\ServletInitializer.class
+gc\unir\actividad2\config\CorsConfig.class
